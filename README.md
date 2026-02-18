@@ -1,16 +1,87 @@
-## Hi there 👋
+<!-- Header Banner -->
+<div align="center">
 
-<!--
-**hiddenconcept/hiddenconcept** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```
+██╗  ██╗██╗██████╗ ██████╗ ███████╗███╗   ██╗ ██████╗ ██████╗ ███╗   ██╗ ██████╗███████╗██████╗ ████████╗
+██║  ██║██║██╔══██╗██╔══██╗██╔════╝████╗  ██║██╔════╝██╔═══██╗████╗  ██║██╔════╝██╔════╝██╔══██╗╚══██╔══╝
+███████║██║██║  ██║██║  ██║█████╗  ██╔██╗ ██║██║     ██║   ██║██╔██╗ ██║██║     █████╗  ██████╔╝   ██║   
+██╔══██║██║██║  ██║██║  ██║██╔══╝  ██║╚██╗██║██║     ██║   ██║██║╚██╗██║██║     ██╔══╝  ██╔═══╝    ██║   
+██║  ██║██║██████╔╝██████╔╝███████╗██║ ╚████║╚██████╗╚██████╔╝██║ ╚████║╚██████╗███████╗██║        ██║   
+╚═╝  ╚═╝╚═╝╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═════╝ ╚══════╝╚═╝        ╚═╝   
+```
 
-Here are some ideas to get you started:
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Data+%7C+ML+%7C+AI+Enthusiast;Turning+Raw+Data+into+Insight;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## `> whoami`
+
+```python
+hiddenconcept = {
+    "focus"     : ["Data Analytics", "Machine Learning", "AI"],
+    "currently" : "Microsoft Power BI Course 📊",
+    "tools"     : ["Python", "Power BI", "SQL", "Excel"],
+    "vibe"      : "Data by day, DJ by night 🎧",
+    "status"    : "Online — always building something"
+}
+```
+
+---
+
+## `> current_project`
+
+<table>
+  <tr>
+    <td>
+      <strong>📊 Microsoft Power BI Course</strong><br/>
+      Mastering data visualization and business intelligence through hands-on Power BI training. Building interactive dashboards and deriving actionable insights from complex datasets.
+    </td>
+  </tr>
+</table>
+
+---
+
+## `> tech_stack`
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F5FF)
+![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F5FF)
+![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
+
+</div>
+
+---
+
+## `> fun_facts.json`
+
+```json
+{
+  "🎧 DJ / Music"     : "I mix tracks and craft vibes — music is my other language",
+  "🌿 Outdoors"       : "Nature resets the system. Hiking, fresh air, clear head.",
+  "👨‍👩‍👧 Family Bonding" : "The people that matter most. Always making memories."
+}
+```
+
+---
+
+## `> system_status`
+
+<div align="center">
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=hiddenconcept&theme=dark&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF)
+
+</div>
+
+---
+
+<div align="center">
+
+```
+[ SIGNAL ACTIVE ] — hiddenconcept is online and building.
+```
+
+</div>
