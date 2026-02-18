@@ -19,14 +19,14 @@
 ## `> whoami`
 
 ```python
-hiddenconcept = {
-    "focus"     : ["Data Analytics", "Machine Learning", "AI"],
-    "currently" : "Microsoft Power BI Course 📊",
+hiddenconcept = 
+    Focus     : Data Analytics, Machine Learning, AI
+    Currently : "Microsoft Power BI Course 📊",
     "tools"     : ["Python", "Power BI", "SQL", "Excel"],
     "vibe"      : "Data by day, DJ by night 🎧",
     "status"    : "Online — always building something"
-}
-```
+
+
 
 ---
 
