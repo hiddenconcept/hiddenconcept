@@ -51,6 +51,7 @@ hiddenconcept = {
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F5FF)
 ![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
 ![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
+![Word](https://img.shields.io/badge/Word-0D1117?style=for-the-badge&logo=microsoftword&logoColor=2B579A)
 
 </div>
 
