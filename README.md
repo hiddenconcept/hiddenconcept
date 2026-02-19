@@ -37,6 +37,8 @@ hiddenconcept = {
     <td>
       <strong>📊 Microsoft Power BI Course</strong><br/>
       Mastering data visualization and business intelligence through hands-on Power BI training. Building interactive dashboards and deriving actionable insights from complex datasets.
+      <strong>🐍50 Days Of Data Analysis With Python </strong><br/>
+        Working on mastering python skills to further advance my skills within data analytics 
     </td>
   </tr>
 </table>
