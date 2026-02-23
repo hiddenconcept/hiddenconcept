@@ -16,7 +16,7 @@
 
 ---
 
-## `> whoami`
+## `> AboutME`
 
 ```python
 hiddenconcept = {
@@ -30,7 +30,7 @@ hiddenconcept = {
 
 ---
 
-## `> Current Project`s
+## `> Current Project's`
 
 <table>
   <tr>
