@@ -19,7 +19,7 @@
 ## `> AboutME`
 
 ```python
-hiddenconcept = 
+HiddenConcept  
     "focus"     : ["Data Analytics", "Machine Learning", "AI"],
     "currently" : "Microsoft Power BI Course 📊3/8 Done✅!",
     "tools"     : ["Python", "Power BI", "SQL", "Excel"],
@@ -63,11 +63,11 @@ hiddenconcept =
 ## `> fun_facts.json`
 
 ```json
-{
+
   "🎧 DJ / Music"     : "I mix tracks and craft vibes — music is my other language",
   "🌿 Outdoors"       : "Nature resets the system. Hiking, fresh air, clear head.",
   "👨‍👩‍👧 Family Bonding" : "The people that matter most. Always making memories."
-}
+
 ```
 
 ---
