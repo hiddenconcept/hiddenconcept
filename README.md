@@ -118,6 +118,11 @@ HiddenConcept
 
 ---
 
+
+"The best insights come from the cleanest data — and the best drops come from the right timing."
+
+---
+
 <div align="center">
 
 ```
