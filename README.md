@@ -14,7 +14,7 @@
 
 </div>
 
----
+
 
 ```
 ◈══════════════════════════════════════════════════════════════◈
@@ -45,7 +45,7 @@ HiddenConcept
 
 ---
 
----
+
 
 ## 🛠️ Technical Skill Set
 
@@ -54,9 +54,8 @@ HiddenConcept
 - 📊 Power BI (DAX, Power Query, Data Modeling)
 - 🗄️ SQL (Data querying, joins, aggregations)
 - 📈 Excel (Pivot Tables, Formulas, Dashboards)
----
+  
 
----
 
 ## `▸ CURRENT_PROJECTS.exe`
 
