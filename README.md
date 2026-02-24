@@ -36,14 +36,14 @@ class HiddenConcept:
 ```
 
 
-## 💼 What I Bring to the Table
+## `▸ WHAT_I_BRING.log`
 
-✔️ Strong analytical thinking & problem-solving  
-✔️ Business-focused dashboard development  
-✔️ Data cleaning & transformation expertise  
-✔️ Clear data storytelling & insight communication  
-
----
+```
+  ✔️  Strong analytical thinking & problem-solving
+  ✔️  Business-focused dashboard development
+  ✔️  Data cleaning & transformation expertise
+  ✔️  Clear data storytelling & insight communication
+```
 
 
 
@@ -54,25 +54,25 @@ class HiddenConcept:
 - 📊 Power BI (DAX, Power Query, Data Modeling)
 - 🗄️ SQL (Data querying, joins, aggregations)
 - 📈 Excel (Pivot Tables, Formulas, Dashboards)
-  
-
-
-## `▸ CURRENT_PROJECTS.exe`
-
-📊  **Microsoft Power BI Course**
-  Mastering data viz & BI through hands-on training.
-  Building interactive dashboards from complex datasets.
-  ████████████░░░░░░░░░  4/8 Modules Complete ✅
-
-🐍  **50 Days Of Data Analysis With Python**
-  Sharpening Python skills for advanced analytics.
-  Daily challenges | Real datasets | Pure grind 💪
-
-📊  **IBM Data Analyst Professional Certificate**
-  Industry-recognized credential in progress.
-  Covering Python, SQL, BI, and data science fundamentals.
 
 ---
+  
+## `▸ CURRENT_PROJECTS.exe`
+
+
+  📊  Microsoft Power BI Course
+      Mastering data viz & BI through hands-on training.
+      Building interactive dashboards from complex datasets.
+      ████████████░░░░░░░░░  4/8 Modules Complete ✅
+
+  🐍  50 Days Of Data Analysis With Python
+      Sharpening Python skills for advanced analytics.
+      Daily challenges | Real datasets | Pure grind 💪
+
+  📊  IBM Data Analyst Professional Certificate
+      Industry-recognized credential in progress.
+      Covering Python, SQL, BI, and data science fundamentals.
+```
 
 
 
@@ -99,14 +99,18 @@ class HiddenConcept:
 
 </div>
 
-## `> fun_facts.json`
-
-  "🎧 DJ / Music"     : "I mix tracks and craft vibes — music is my other language",
-  "🌿 Outdoors"       : "Nature resets the system. Hiking, fresh air, clear head.",
-  "👨‍👩‍👧 Family Bonding" : "The people that matter most. Always making memories."
-
-
 ---
+
+## `▸ FUN_FACTS.json` 🎴
+
+```json
+{
+  "🎧 DJ / Music"     : "I mix tracks & craft vibes — music is my other language",
+  "🌿 Outdoors"       : "Nature resets the system. Hiking, fresh air, clear head.",
+  "👨‍👩‍👧 Family"         : "The people that matter most. Always making memories.",
+  "🎮 Hidden Trait"   : "Data analyst who sees patterns in everything — even music 🎵"
+}
+```
 
 ## `> system_status`
 
