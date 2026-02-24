@@ -28,6 +28,22 @@ HiddenConcept
 
 ```
 
+## 💼 What I Bring to the Table
+
+✔️ Strong analytical thinking & problem-solving  
+✔️ Business-focused dashboard development  
+✔️ Data cleaning & transformation expertise  
+✔️ Clear data storytelling & insight communication  
+
+---
+
+## 🛠️ Technical Skill Set
+
+**Languages & Analytics Tools**
+- 🐍 Python (Pandas, NumPy, Matplotlib, Seaborn)
+- 📊 Power BI (DAX, Power Query, Data Modeling)
+- 🗄️ SQL (Data querying, joins, aggregations)
+- 📈 Excel (Pivot Tables, Formulas, Dashboards)
 ---
 
 ## `> Current Project's`
@@ -40,6 +56,8 @@ HiddenConcept
               <br/><br/>
       <strong>🐍 50 Days Of Data Analysis With Python 🐍 </strong><br/>
         Working on mastering python skills to further advance my skills within data analytics 
+        <strong>📊IBM Data Analyst📊</strong><br/>
+        
     </td>
   </tr>
 </table>
