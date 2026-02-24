@@ -21,7 +21,7 @@
 ```python
 HiddenConcept  
     "focus"     : ["Data Analytics", "Machine Learning", "AI"],
-    "currently" : "Microsoft Power BI Course 📊3/8 Done✅!",
+    "currently" : "Microsoft Power BI Course 📊4/8 Done✅!",
     "tools"     : ["Python", "Power BI", "SQL", "Excel"],
     "vibe"      : "Data by day, DJ by night 🎧",
     "status"    : "Online — always building something"
