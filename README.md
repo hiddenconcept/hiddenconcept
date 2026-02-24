@@ -18,7 +18,7 @@
 
 ## `> AboutME`
 
-```python
+python
 HiddenConcept  
     "focus"     : ["Data Analytics", "Machine Learning", "AI"],
     "currently" : "Microsoft Power BI Course 📊4/8 Done✅!",
@@ -26,7 +26,7 @@ HiddenConcept
     "vibe"      : "Data by day, DJ by night 🎧",
     "status"    : "Online — always building something"
 
-```
+
 
 ## 💼 What I Bring to the Table
 
@@ -80,13 +80,12 @@ HiddenConcept
 
 ## `> fun_facts.json`
 
-```json
+
 
   "🎧 DJ / Music"     : "I mix tracks and craft vibes — music is my other language",
   "🌿 Outdoors"       : "Nature resets the system. Hiking, fresh air, clear head.",
   "👨‍👩‍👧 Family Bonding" : "The people that matter most. Always making memories."
 
-```
 
 ---
 
