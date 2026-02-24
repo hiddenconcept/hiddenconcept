@@ -53,21 +53,25 @@ HiddenConcept
 - 📈 Excel (Pivot Tables, Formulas, Dashboards)
 ---
 
-## `> Current Project's`
+## `▸ CURRENT_PROJECTS.exe`
 
-<table>
-  <tr>
-    <td>
-      <strong>📊 Microsoft Power BI Course 📊</strong><br/>
-      Mastering data visualization and business intelligence through hands-on Power BI training. Building interactive dashboards and deriving actionable insights from complex datasets.
-              <br/><br/>
-      <strong>🐍 50 Days Of Data Analysis With Python 🐍 </strong><br/>
-        Working on mastering python skills to further advance my skills within data analytics 
-        <strong>📊IBM Data Analyst📊</strong><br/>
-        
-    </td>
-  </tr>
-</table>
+```
+╔══════════════════════════════════════════════════════════════════╗
+║  📊  Microsoft Power BI Course                                   ║
+║      Mastering data viz & BI through hands-on training.          ║
+║      Building interactive dashboards from complex datasets.      ║
+║      ████████████░░░░░░░░░  4/8 Modules Complete ✅              ║
+╠══════════════════════════════════════════════════════════════════╣
+║  🐍  50 Days Of Data Analysis With Python                        ║
+║      Sharpening Python skills for advanced analytics.            ║
+║      Daily challenges | Real datasets | Pure grind 💪            ║
+╠══════════════════════════════════════════════════════════════════╣
+║  📊  IBM Data Analyst Professional Certificate                   ║
+║      Industry-recognized credential in progress.                 ║
+║      Covering Python, SQL, BI, and data science fundamentals.    ║
+╚══════════════════════════════════════════════════════════════════╝
+```
+
 
 
 
