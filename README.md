@@ -33,6 +33,7 @@ HiddenConcept
     "vibe"      : "Data by day, DJ by night 🎧",
     "status"    : "Online — always building something"
 
+---
 
 
 ## 💼 What I Bring to the Table
@@ -41,6 +42,8 @@ HiddenConcept
 ✔️ Business-focused dashboard development  
 ✔️ Data cleaning & transformation expertise  
 ✔️ Clear data storytelling & insight communication  
+
+---
 
 ---
 
@@ -53,24 +56,24 @@ HiddenConcept
 - 📈 Excel (Pivot Tables, Formulas, Dashboards)
 ---
 
+---
+
 ## `▸ CURRENT_PROJECTS.exe`
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║  📊  Microsoft Power BI Course                                   ║
-║      Mastering data viz & BI through hands-on training.          ║
-║      Building interactive dashboards from complex datasets.      ║
-║      ████████████░░░░░░░░░  4/8 Modules Complete ✅              ║
-╠══════════════════════════════════════════════════════════════════╣
-║  🐍  50 Days Of Data Analysis With Python                        ║
-║      Sharpening Python skills for advanced analytics.            ║
-║      Daily challenges | Real datasets | Pure grind 💪            ║
-╠══════════════════════════════════════════════════════════════════╣
-║  📊  IBM Data Analyst Professional Certificate                   ║
-║      Industry-recognized credential in progress.                 ║
-║      Covering Python, SQL, BI, and data science fundamentals.    ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+📊  **Microsoft Power BI Course**
+  Mastering data viz & BI through hands-on training.
+  Building interactive dashboards from complex datasets.
+  ████████████░░░░░░░░░  4/8 Modules Complete ✅
+
+🐍  **50 Days Of Data Analysis With Python**
+  Sharpening Python skills for advanced analytics.
+  Daily challenges | Real datasets | Pure grind 💪
+
+📊  **IBM Data Analyst Professional Certificate**
+  Industry-recognized credential in progress.
+  Covering Python, SQL, BI, and data science fundamentals.
+
+---
 
 
 
