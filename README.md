@@ -16,6 +16,13 @@
 
 ---
 
+```
+◈══════════════════════════════════════════════════════════════◈
+║                      > BOOTING SYSTEM...                     ║
+║                   [ HIDDENCONCEPT LOADED ✓ ]                 ║
+◈══════════════════════════════════════════════════════════════◈
+```
+
 ## `> AboutME`
 
 python
@@ -64,23 +71,30 @@ HiddenConcept
 
 ---
 
-## `> tech_stack`
+## `▸ TECH_STACK.json`
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00F5FF)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=00F5FF)
-![Power BI](https://img.shields.io/badge/Power_BI-0D1117?style=for-the-badge&logo=powerbi&logoColor=F2C811)
-![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoftexcel&logoColor=217346)
-![Word](https://img.shields.io/badge/Word-0D1117?style=for-the-badge&logo=microsoftword&logoColor=2B579A)
+![Python](https://img.shields.io/badge/Python-0D0D1A?style=for-the-badge&logo=python&logoColor=FF00FF)
+![SQL](https://img.shields.io/badge/SQL-0D0D1A?style=for-the-badge&logo=postgresql&logoColor=FF00FF)
+![Power BI](https://img.shields.io/badge/Power_BI-0D0D1A?style=for-the-badge&logo=powerbi&logoColor=F2C811)
+![Excel](https://img.shields.io/badge/Excel-0D0D1A?style=for-the-badge&logo=microsoftexcel&logoColor=00FF9F)
+![Pandas](https://img.shields.io/badge/Pandas-0D0D1A?style=for-the-badge&logo=pandas&logoColor=FF00FF)
+![NumPy](https://img.shields.io/badge/NumPy-0D0D1A?style=for-the-badge&logo=numpy&logoColor=00F5FF)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-0D0D1A?style=for-the-badge&logo=plotly&logoColor=FF6EC7)
+![Jupyter](https://img.shields.io/badge/Jupyter-0D0D1A?style=for-the-badge&logo=jupyter&logoColor=FF6600)
 
 </div>
 
----
+**Languages & Analytics Tools**
+- 🐍 **Python** — Pandas, NumPy, Matplotlib, Seaborn
+- 📊 **Power BI** — DAX, Power Query, Data Modeling
+- 🗄️ **SQL** — Querying, joins, aggregations, subqueries
+- 📈 **Excel** — Pivot Tables, Formulas, Dashboards
 
 ## `> fun_facts.json`
 
-
+---
 
   "🎧 DJ / Music"     : "I mix tracks and craft vibes — music is my other language",
   "🌿 Outdoors"       : "Nature resets the system. Hiking, fresh air, clear head.",
