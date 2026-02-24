@@ -56,10 +56,10 @@ class HiddenConcept:
 - 📈 Excel (Pivot Tables, Formulas, Dashboards)
 
 ---
-  
+
 ## `▸ CURRENT_PROJECTS.exe`
 
-
+```
   📊  Microsoft Power BI Course
       Mastering data viz & BI through hands-on training.
       Building interactive dashboards from complex datasets.
