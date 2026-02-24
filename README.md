@@ -65,16 +65,6 @@ class HiddenConcept:
       Covering Python, SQL, BI, and data science fundamentals.
 ```
 
-
-
-
-**Languages & Analytics Tools**
-- 🐍 **Python** — Pandas, NumPy, Matplotlib, Seaborn
-- 📊 **Power BI** — DAX, Power Query, Data Modeling
-- 🗄️ **SQL** — Querying, joins, aggregations, subqueries
-- 📈 **Excel** — Pivot Tables, Formulas, Dashboards
----
-
 ## `▸ FUN_FACTS.json` 🎴
 
 ```json
