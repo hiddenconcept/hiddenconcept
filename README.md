@@ -69,6 +69,13 @@ HiddenConcept
   </tr>
 </table>
 
+
+
+**Languages & Analytics Tools**
+- 🐍 **Python** — Pandas, NumPy, Matplotlib, Seaborn
+- 📊 **Power BI** — DAX, Power Query, Data Modeling
+- 🗄️ **SQL** — Querying, joins, aggregations, subqueries
+- 📈 **Excel** — Pivot Tables, Formulas, Dashboards
 ---
 
 ## `▸ TECH_STACK.json`
@@ -86,15 +93,7 @@ HiddenConcept
 
 </div>
 
-**Languages & Analytics Tools**
-- 🐍 **Python** — Pandas, NumPy, Matplotlib, Seaborn
-- 📊 **Power BI** — DAX, Power Query, Data Modeling
-- 🗄️ **SQL** — Querying, joins, aggregations, subqueries
-- 📈 **Excel** — Pivot Tables, Formulas, Dashboards
-
 ## `> fun_facts.json`
-
----
 
   "🎧 DJ / Music"     : "I mix tracks and craft vibes — music is my other language",
   "🌿 Outdoors"       : "Nature resets the system. Hiking, fresh air, clear head.",
