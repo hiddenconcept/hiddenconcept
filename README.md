@@ -10,7 +10,7 @@
 ╚═╝  ╚═╝╚═╝╚═════╝ ╚═════╝ ╚══════╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═════╝ ╚══════╝╚═╝        ╚═╝   
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Data+Driven%2C+Future+Focused;Connecting+the+Dots+in+Data;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Writing+Code%2C+Breaking+Problems;Transforming+Numbers+into+Stories;Always+Learning%2C+Always+Building" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&width=600&lines=Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Data+Driven%2C+Future+Focused;Connecting+the+Dots+in+Data;Writing+Code%2C+Breaking+Problems;Transforming+Numbers+into+Stories;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 </div>
 
 ## `▸ ABOUT_ME.exe`
