@@ -55,14 +55,14 @@ class HiddenConcept:
       Building interactive dashboards from complex datasets.
       ████████████░░░░░░░░░  4/8 Modules Complete ✅
 
-  🐍  50 Days Of Data Analysis With Python
-      Sharpening Python skills for advanced analytics.
-      Daily challenges | Real datasets | Pure grind 💪
-
   📊  IBM Data Analyst Professional Certificate
       Industry-recognized credential in progress.
       Covering Python, SQL, BI, and data science fundamentals.
       ██████████░░░░░░░░░░░  5/11 Modules Complete ✅
+
+  🐍  50 Days Of Data Analysis With Python
+      Sharpening Python skills for advanced analytics.
+      Daily challenges | Real datasets | Pure grind 💪
 ```
 
 ## `▸ FUN_FACTS.json` 🎴
