@@ -53,7 +53,7 @@ class HiddenConcept:
   📊  Microsoft Power BI Course
       Mastering data viz & BI through hands-on training.
       Building interactive dashboards from complex datasets.
-      ████████████░░░░░░░░░  4/8 Modules Complete ✅
+      █████████████████░░░░░░  6/8 Modules Complete ✅
 
   📊  IBM Data Analyst Professional Certificate
       Industry-recognized credential in progress.
