@@ -18,7 +18,7 @@
 ```python
 class HiddenConcept:
     focus      = ["Data Analytics", "Machine Learning", "AI"]
-    currently  = "Microsoft Power BI Course 📊 — 5/8 Done ✅"
+    currently  = "Microsoft Power BI Course 📊 — 6/8 Done ✅"
     tools      = ["Python", "Power BI", "SQL", "Excel"]
     vibe       = "Data by day 📊 | DJ by night 🎧"
     location   = "Online — signal always active 🌐"
