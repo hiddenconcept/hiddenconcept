@@ -18,7 +18,7 @@
 ```python
 class HiddenConcept:
     focus      = ["Data Analytics", "Machine Learning", "AI"]
-    currently  = "Microsoft Power BI Course 📊 — 7/8 Done ✅"
+    currently  = "IBM Data Analyst Professional Certificate 📊 — 5/11 Done ✅"
     tools      = ["Python", "Power BI", "SQL", "Excel"]
     vibe       = "Data by day 📊 | DJ by night 🎧"
     location   = "Online — signal always active 🌐"
@@ -50,11 +50,6 @@ class HiddenConcept:
 ## `▸ CURRENT_PROJECTS.exe`
 
 ```
-  📊  Microsoft Power BI Course
-      Mastering data viz & BI through hands-on training.
-      Building interactive dashboards from complex datasets.
-      ████████████████████░░  7/8 Modules Complete ✅
-
   📊  IBM Data Analyst Professional Certificate
       Industry-recognized credential in progress.
       Covering Python, SQL, BI, and data science fundamentals.
