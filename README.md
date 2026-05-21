@@ -18,7 +18,7 @@
 ```python
 class HiddenConcept:
     focus      = ["Data Analytics", "Machine Learning", "AI"]
-    currently  = "IBM Data Analyst Professional Certificate 📊 — 5/11 Done ✅"
+    currently  = "IBM Data Analyst Professional Certificate 📊 — 6/11 Done ✅"
     tools      = ["Python", "Power BI", "SQL", "Excel"]
     vibe       = "Data by day 📊 | DJ by night 🎧"
     location   = "Online — signal always active 🌐"
@@ -53,7 +53,7 @@ class HiddenConcept:
   📊  IBM Data Analyst Professional Certificate
       Industry-recognized credential in progress.
       Covering Python, SQL, BI, and data science fundamentals.
-      ██████████░░░░░░░░░░░  5/11 Modules Complete ✅
+      ██████████░░░░░░░░░░░  6/11 Modules Complete ✅
 
   🐍  50 Days Of Data Analysis With Python
       Sharpening Python skills for advanced analytics.
