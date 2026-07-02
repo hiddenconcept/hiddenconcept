@@ -88,7 +88,7 @@ class HiddenConcept:
 
 ![Python](https://img.shields.io/badge/Python-0D0D1A?style=for-the-badge&logo=python&logoColor=FF00FF)
 ![SQL](https://img.shields.io/badge/SQL-0D0D1A?style=for-the-badge&logo=postgresql&logoColor=FF00FF)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=microsoftpowerbi&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=simpleicons&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-0D0D1A?style=for-the-badge&logo=microsoftexcel&logoColor=00FF9F)
 ![Pandas](https://img.shields.io/badge/Pandas-0D0D1A?style=for-the-badge&logo=pandas&logoColor=FF00FF)
 ![NumPy](https://img.shields.io/badge/NumPy-0D0D1A?style=for-the-badge&logo=numpy&logoColor=00F5FF)
