@@ -53,7 +53,7 @@ class HiddenConcept:
   📊  IBM Data Analyst Professional Certificate
       Industry-recognized credential in progress.
       Covering Python, SQL, BI, and data science fundamentals.
-      ██████████░░░░░░░░░░░  6/11 Modules Complete ✅
+      ██████████░  10/11 Modules Complete ✅
 
   🐍  50 Days Of Data Analysis With Python
       Sharpening Python skills for advanced analytics.
