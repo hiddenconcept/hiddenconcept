@@ -69,7 +69,6 @@ class HiddenConcept:
   "👨‍👩‍👧 Family"         : "The people that matter most. Always making memories.",
   "🎮 Hidden Trait"   : "Data analyst who sees patterns in everything — even music 🎵"
 }
-
 ## > SYSTEM_STATUS
 
 <div align="center">
