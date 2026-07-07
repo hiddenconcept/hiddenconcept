@@ -77,7 +77,9 @@ class HiddenConcept:
 <img src="./profile/stats.svg" height="165"/>
 <img src="./profile/top-langs.svg" height="165"/>
 </div>
+<div align="center">
 <a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
+</div>
 
 ## `▸ TECH_STACK.json`
 
