@@ -62,20 +62,12 @@ class HiddenConcept:
 
 ## `▸ FUN_FACTS.json` 🎴
 
-
-
 ```json
-
 {
-
   "🎧 DJ / Music"     : "I mix tracks & craft vibes — music is my other language",
-
   "🌿 Outdoors"       : "Nature resets the system. Hiking, fresh air, clear head.",
-
   "👨‍👩‍👧 Family"         : "The people that matter most. Always making memories.",
-
   "🎮 Hidden Trait"   : "Data analyst who sees patterns in everything — even music 🎵"
-
 }
 
 ## > SYSTEM_STATUS
