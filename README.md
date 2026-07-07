@@ -15,15 +15,12 @@
 
 ## `▸ ABOUT_ME.exe`
 
-```python
-class HiddenConcept:
-    focus      = ["Data Analytics", "Machine Learning", "AI"]
-    currently  = "IBM Data Analyst Professional Certificate 📊 — 10/11 Done ✅"
-    tools      = ["Python", "Power BI", "SQL", "Excel"]
-    vibe       = "Data by day 📊 | DJ by night 🎧"
-    location   = "Online — signal always active 🌐"
-    status     = "🟣 ONLINE — always building something"
-```
+🧠 **Focus**: Data Analytics • Machine Learning • AI
+📊 **Current**: IBM Data Analyst Professional Certificate (10/11 Complete)
+🛠 **Tools**: Python • Power BI • SQL • Excel
+🎧 **Vibe**: Data by day | DJ by night
+🌐 **Location**: Online — Signal Always Active
+🟣 **Status**: ONLINE — Always Building Something
 
 
 ## `▸ WHAT_I_BRING.log`
