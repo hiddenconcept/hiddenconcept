@@ -71,15 +71,21 @@ class HiddenConcept:
 }
 ```
 
-## `> system_status`
+## > SYSTEM_STATUS
 
 <div align="center">
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=hiddenconcept&theme=dark&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF)
+<img src="https://github-readme-stats.vercel.app/api?username=hiddenconcept&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiddenconcept&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
 
 </div>
 
----
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hiddenconcept&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+
+</div>
 
 
 ## `▸ TECH_STACK.json`
