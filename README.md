@@ -60,8 +60,6 @@ class HiddenConcept:
       Daily challenges | Real datasets | Pure grind 💪
 ```
 
-<div style="background-color:#0d1117; padding:20px; border-radius:10px;">
-
 ## `▸ FUN_FACTS.json` 🎴
 
 ```json
