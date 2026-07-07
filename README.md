@@ -71,16 +71,21 @@ class HiddenConcept:
 }
 ```
 
-## `▸ SYSTEM_STATUS.exe`
+## > SYSTEM_STATUS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=hiddenconcept&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=hiddenconcept&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiddenconcept&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiddenconcept&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" height="165"/>
 
 </div>
 
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=hiddenconcept&theme=tokyo-night&hide_border=true&bg_color=00000000"/>
+
+</div>
 
 ## `▸ TECH_STACK.json`
 
