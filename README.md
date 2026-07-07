@@ -77,7 +77,7 @@ class HiddenConcept:
 <img src="./profile/stats.svg" height="165"/>
 <img src="./profile/top-langs.svg" height="165"/>
 </div>
-    <div align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=hiddenconcept&theme=tokyo-night&hide_border=true&bg_color=00000000"/> </div>
+<a href="https://git.io/streak-stats"><img src="./profile/streak.svg" alt="GitHub Streak" /></a>
 
 ## `▸ TECH_STACK.json`
 
