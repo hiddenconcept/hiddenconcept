@@ -15,14 +15,14 @@
 
 ## `▸ ABOUT_ME.exe`
 
-```yaml
-**Focus**:     Data Analytics • Machine Learning • AI
-**Current**:   IBM Data Analyst Professional Certificate (10/11 Complete)
-**Tools**:     Python • Power BI • SQL • Excel
-**Vibe**:      Data by day | DJ by night
-**Location**:  Online — Signal Always Active
-**Status**:    🟣 ONLINE — Always Building Something
-```
+| | |
+|---|---|
+| 🧠 **Focus** | Data Analytics • Machine Learning • AI |
+| 📊 **Current** | IBM Data Analyst Professional Certificate *(10/11 Complete)* |
+| 🛠 **Tools** | Python • Power BI • SQL • Excel |
+| 🎧 **Vibe** | Data by day \| DJ by night |
+| 🌐 **Location** | Online — Signal Always Active |
+| 🟣 **Status** | ONLINE — Always Building Something |
 
 ## `▸ WHAT_I_BRING.log`
 
