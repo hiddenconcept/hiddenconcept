@@ -60,6 +60,8 @@ class HiddenConcept:
       Daily challenges | Real datasets | Pure grind 💪
 ```
 
+<div style="background-color:#0d1117; padding:20px; border-radius:10px;">
+
 ## `▸ FUN_FACTS.json` 🎴
 
 ```json
@@ -69,7 +71,6 @@ class HiddenConcept:
   "👨‍👩‍👧 Family"         : "The people that matter most. Always making memories.",
   "🎮 Hidden Trait"   : "Data analyst who sees patterns in everything — even music 🎵"
 }
-```
 
 ## > SYSTEM_STATUS
 
