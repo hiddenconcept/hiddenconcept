@@ -18,7 +18,7 @@
 | | |
 |---|---|
 | 🧠 **Focus** | Data Analytics • Machine Learning • AI |
-| 📊 **Current** | IBM Data Analyst Professional Certificate *(10/11 Complete)* |
+| 📊 **Current** | Power Bi Projects & Studying For The Exam |
 | 🛠 **Tools** | Python • Power BI • SQL • Excel |
 | 🎧 **Vibe** | Data by day \| DJ by night |
 | 🌐 **Location** | Online — Signal Always Active |
@@ -48,11 +48,6 @@
 ## `▸ CURRENT_PROJECTS.exe`
 
 ```
-  📊  IBM Data Analyst Professional Certificate
-      Industry-recognized credential in progress.
-      Covering Python, SQL, BI, and data science fundamentals.
-      ██████████░  10/11 Modules Complete ✅
-
   🐍  50 Days Of Data Analysis With Python
       Sharpening Python skills for advanced analytics.
       Daily challenges | Real datasets | Pure grind 💪
