@@ -48,9 +48,7 @@
 ## `▸ CURRENT_PROJECTS.exe`
 
 ```
-  🐍  50 Days Of Data Analysis With Python
-      Sharpening Python skills for advanced analytics.
-      Daily challenges | Real datasets | Pure grind 💪
+  Power BI Projects & Studying for PL-300💪
 ```
 
 ## `▸ FUN_FACTS.json` 🎴
