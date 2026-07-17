@@ -49,6 +49,8 @@
 
 ```
   Power BI Projects & Studying for PL-300💪
+
+Working on github FOundations Exam
 ```
 
 ## `▸ FUN_FACTS.json` 🎴
